@@ -14,3 +14,6 @@ While primarily targeting solar power, this paper provides valuable insights int
 
 ### 📡 [Beamforming Using Rotman Lens](./Beamforming%20for%20directional%20signals)
 Discusses the use of a Rotman lens for harvesting directional RF signals. The paper in this folder explores how such lenses can improve energy capture from specific directions — a promising approach for enhancing RF energy harvesting performance.
+
+### 🖼️ [Presentation Slides](./REFH.pptx)
+PowerPoint presentation summarizing the overall RF energy harvesting project, including key concepts, schematic overview, and findings.
