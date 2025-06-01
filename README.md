@@ -1,9 +1,16 @@
-1. Full implementation Pls refer to this for a look at the full schematic needed for rfeh from rectification to dc dc conversion, this is the main source that i am referring to
-2. Some existing solutions
-3. A research paper that validates Fractional Open Circuit Voltage based MPPT, I looked at the paper to find wheather there is a relation between open circuit voltage and optimal power point. 
-    The fractional voltage happens to be around 50%. Most of the power harvesting chips in market use this method for M.P.P.T .
-4. ML based M.P.P.T ( Description for Solar power harvesting but read it for getting a understanding into how it works).
-5. Came across Rotman lens for harvesting directional signals in this paper.
-   
+## 📘 Key References for RF Energy Harvesting Project
 
+### 🔧 [Full Implementation](./Complete_implementation)
+Refer to this folder for the complete schematic needed for RF energy harvesting — from RF rectification to DC-DC conversion. This is the main source for the full system implementation.
 
+### 📚 [Some Existing Solutions](./Some_existing_Solutions)
+A collection of existing RF energy harvesting solutions for benchmarking and comparison.
+
+### 🔋 [Fractional Open Circuit Voltage-Based MPPT](./Fractional_open_circit_voltage)
+Contains a research paper that validates the use of fractional open-circuit voltage (typically around 50%) for Maximum Power Point Tracking (MPPT). This method is commonly used in commercial energy harvesting chips.
+
+### 🤖 [ML-Based MPPT](./ML_based_MPPT)
+While primarily targeting solar power, this paper provides valuable insights into using machine learning techniques for MPPT. Useful for conceptual understanding and potential adaptation to RF systems.
+
+### 📡 [Beamforming Using Rotman Lens](./Beamforming%20for%20directional%20signals)
+Discusses the use of a Rotman lens for harvesting directional RF signals. The paper in this folder explores how such lenses can improve energy capture from specific directions — a promising approach for enhancing RF energy harvesting performance.
